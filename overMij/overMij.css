@@ -17,25 +17,82 @@ h2, h3 {
 
 #pagina {
     background-color: rgb(255, 255, 255);
-    width: 500px;
-    height: 800px;
+    width: 700px;
+    height: 1800px;
     padding: 20px 50px;
     margin: 0 auto;
 }
 
-#mijnSport {
-    /* background-color: darkslateblue; */
-    border: 1px solid black;
-    width: 500px;
-    margin: 0 auto;
+#schaatsfoto {
+    width: 450px;
 }
+
 
 .duursporten {
-
+    letter-spacing: 10px;
 }
 
-.plaatjeRechts {
-    float: right;
-    /* margin-left: 10px; */
+.wintersporten {
+    color: cyan;
+}
+
+#favoriet {
+    color: gold;
+    text-shadow: 1px 1px black;
+}
+
+
+
+.product {
+    background-color: lightblue;
+    border: 10px solid black;
+    padding: 0px 10px;
+    margin: 10px 10px;
+    width: 160px;
+    height: 250px;
+    display: inline-block;
+}
+
+.container {
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* .product {
+    background-color: lightblue;
+    border: 3px solid black;
     width: 200px;
+    height: 250px;
+    box-sizing: border-box;
+    padding: 0px 10px;
+    margin: 10px 0px;
+    display: inline-block;
 }
+
+.container {
+    text-align: center;
+} */
+
+
+
+
+
+
+
+
+
+
