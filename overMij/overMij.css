@@ -6,6 +6,8 @@ body {
     font-family:Georgia, 'Times New Roman', Times, serif;
     background-color: rgb(226, 226, 226);
     margin: 0px;
+    background-image: url("../oefenen/images/boom.jpg");
+    background-size: 100%;
 }
 
 h2, h3 {
@@ -27,7 +29,6 @@ h2, h3 {
     width: 450px;
 }
 
-
 .duursporten {
     letter-spacing: 10px;
 }
@@ -40,8 +41,6 @@ h2, h3 {
     color: gold;
     text-shadow: 1px 1px black;
 }
-
-
 
 .product {
     background-color: lightblue;
@@ -56,41 +55,6 @@ h2, h3 {
 .container {
     text-align: center;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-/* .product {
-    background-color: lightblue;
-    border: 3px solid black;
-    width: 200px;
-    height: 250px;
-    box-sizing: border-box;
-    padding: 0px 10px;
-    margin: 10px 0px;
-    display: inline-block;
-}
-
-.container {
-    text-align: center;
-} */
-
-
-
-
-
 
 
 

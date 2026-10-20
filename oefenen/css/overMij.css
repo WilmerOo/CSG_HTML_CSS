@@ -1,0 +1,32 @@
+body{
+font-family:Georgia, Times New Roman, Times, serif;
+    background-color : rgb(226, 226, 226)
+}
+h2 {background-color: rgb(37, 32, 72); color: white; margin: 0px; padding: 20px;}
+h3 {background-color: rgb(37, 32, 72); color: white; margin: 0px; padding: 20px;}
+#pagina {
+    background-color: rgb(255, 255, 255);
+        width: 700px;
+  height: 1800px;
+    padding: 20px 50px; margin: 0 auto;
+}
+#schaatsfoto { width:450px ; }
+.duursporten {
+    letter-spacing: 10px;
+
+.wintersporten { color: cyan; }
+#favoriet {
+color: gold;
+text-shadow: 1px 1px black}
+body { margin: 0px; }
+.product{
+    background-color:lightblue;
+    border: 10px solid black;
+    padding: 0px 10px; margin: 10px 10px;
+    width: 160px; height: 250px;
+    display: inline-block;
+    }
+
+
+
+.container { text-align: center; }
