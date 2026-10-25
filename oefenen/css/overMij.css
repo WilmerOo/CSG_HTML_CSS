@@ -1,32 +1,50 @@
-body{
-font-family:Georgia, Times New Roman, Times, serif;
-    background-color : rgb(226, 226, 226)
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color : rgb(226, 226, 226);
+    margin: 0px;
 }
-h2 {background-color: rgb(37, 32, 72); color: white; margin: 0px; padding: 20px;}
-h3 {background-color: rgb(37, 32, 72); color: white; margin: 0px; padding: 20px;}
+
+h2, h3 {
+    background-color: rgb(37, 32, 72);
+    color: white;
+    margin: 0px;
+    padding: 20px;
+}
+
 #pagina {
     background-color: rgb(255, 255, 255);
-        width: 700px;
-  height: 1800px;
-    padding: 20px 50px; margin: 0 auto;
+    width: 700px;
+    height: 1800px;
+    padding: 20px 50px;
+    margin: 0 auto;
 }
-#schaatsfoto { width:450px ; }
+
+#schaatsfoto {
+    width: 450px;
+}
+
 .duursporten {
     letter-spacing: 10px;
+}
 
-.wintersporten { color: cyan; }
+.wintersporten {
+    color: cyan;
+}
+
 #favoriet {
-color: gold;
-text-shadow: 1px 1px black}
-body { margin: 0px; }
-.product{
+    color: gold;
+    text-shadow: 1px 1px black;
+}
+
+
+.product {
     background-color:lightblue;
     border: 10px solid black;
     padding: 0px 10px; margin: 10px 10px;
     width: 160px; height: 250px;
     display: inline-block;
-    }
+}
 
-
-
-.container { text-align: center; }
+.container {
+    text-align: center;
+}
