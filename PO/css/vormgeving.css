@@ -1,4 +1,4 @@
-html, body {
+/* html, body {
     padding: 0;
     margin: 0;
 }
@@ -14,4 +14,98 @@ body {
 #vogel {
     width: 225px;
     height: auto;
+} */
+
+
+
+
+
+
+/* * {
+    outline: 1px solid red;
+} */
+
+
+body {
+    margin: 0;
 }
+
+
+.navigatiemenu {
+    height: 150px;
+    width: 100%;
+}
+
+.inhoud {
+    height: 600px;
+    width: 800px;
+}
+
+.sidebar {
+    height: 600px;
+    width: 500px;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+}
+
+
+p {
+    font-size: 20px;
+}
+
+
+
+.standaard {
+    font-family: Arial;
+}
+
+.extern {
+    font-family: "Open Sans", sans-serif;
+}
+
+@font-face {
+    font-family: Redaction;
+    src: url('../Redaction35-Regular.ttf') format(truetype)
+}
+
+.gedownload {
+    font-family: Redaction;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+/* .standaard {
+    font-family: Arial, serif;
+}
+
+.extern {
+    font-family: 'Open sans', sans-serif;
+}
+
+
+@font-face {
+    font-family: Redaction;
+    src: url('../Redaction35-Regular.ttf') format('truetype');
+}
+
+.gedownload {
+    font-family: Redaction;
+} */
+
+
+
+
+
+
